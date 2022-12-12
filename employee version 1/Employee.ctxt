@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Employee\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=givenName\ givenAge
+comment1.target=Employee(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Employee\r\n
+comment10.params=
+comment10.target=void\ swap()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getAge()
+comment4.params=
+comment4.target=int\ getNumHolidays()
+comment5.params=
+comment5.target=int\ getPayscale()
+comment6.params=newName
+comment6.target=void\ setName(java.lang.String)
+comment7.params=updatedHolidays
+comment7.target=void\ setNumHolidays(int)
+comment8.params=
+comment8.target=void\ promote()
+comment9.params=
+comment9.target=void\ increaseAge()
+numComments=11
